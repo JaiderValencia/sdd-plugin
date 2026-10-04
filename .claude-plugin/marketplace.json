@@ -1,0 +1,14 @@
+{
+  "name": "sdd-plugin",
+  "description": "Spec-Driven Development plugin for Claude Code",
+  "owner": {
+    "name": "Jaider Valencia"
+  },
+  "plugins": [
+    {
+      "name": "sdd",
+      "source": ".",
+      "description": "Spec-Driven Development: constitution, specify, clarify, plan, tasks, analyze and implement, with approval gates and project memory."
+    }
+  ]
+}
