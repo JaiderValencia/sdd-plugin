@@ -1,0 +1,11 @@
+{
+  "name": "sdd",
+  "version": "0.1.0",
+  "description": "Spec-Driven Development for any software project: constitution, specify, clarify, plan, tasks, analyze and implement, with hook-enforced approval gates and a persistent project memory.",
+  "author": {
+    "name": "Jaider Valencia"
+  },
+  "repository": "https://github.com/JaiderValencia/sdd-plugin",
+  "license": "MIT",
+  "keywords": ["sdd", "spec-driven-development", "specs", "planning", "workflow", "memory"]
+}
